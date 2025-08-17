@@ -35,8 +35,7 @@ I am a dedicated and skilled professional currently working as a Process Associa
 ### 📫 Let's Connect
 
 - 🔗 LinkedIn : *https://www.linkedin.com/in/ashutosh-singh86/*
-- 📧 Email: *ashutosh9631837387@gmail.com* *(replace with your real email)*
-
+- 📧 Email: *ashutosh9631837387@gmail.com*
 ---
 
 <p align="center">
