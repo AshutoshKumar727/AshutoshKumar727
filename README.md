@@ -1,43 +1,84 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">Process Associate | Data Analyst | Excel & BI Tools Enthusiast</h3>
+<h3 align="center">Data Analyst | Process Associate | Power BI | SQL | Excel | PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Visualization-informational?style=flat&logo=powerbi&logoColor=white&color=yellow" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-ETL-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-lightblue?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-orange?style=flat" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I am a dedicated and skilled professional currently working as a Process Associate at SunTec Web Services Pvt. Ltd., where I focus on optimizing workflows and driving efficiency through data-driven insights.
+I am a detail-oriented professional with 3+ years of experience in process management, data verification, and product analysis. Passionate about transforming raw data into actionable insights using Power BI, SQL, Excel, and PostgreSQL.
 
-### 🛠 Tools & Technologies
-
-- **Power BI** for building rich, interactive dashboards  
-- **Power Query** for data transformation and ETL tasks  
-- **Advanced Excel + VBA** for automation and reporting  
-- **Google Looker Studio** for web-based reporting  
-- **Office 365** for collaboration and productivity
+* 📊 Skilled in Data Analysis, Dashboard Development, and Reporting
+* 📈 Experienced in Data Cleaning, Transformation, and Visualization
+* ⚡ Developed custom Excel VBA automation tools to improve workflow productivity
+* 🎯 Seeking opportunities as a Data Analyst / BI Analyst
 
 ---
 
-### 🎓 Education & Certifications
+## 🛠 Tools & Technologies
 
-- Bachelor of Arts — IGNOU  
-- Advanced Diploma in Computer Applications (ADCA)  
-- Currently learning **Data Analysis** and modern BI tools
+* Power BI
+* PostgreSQL
+* SQL
+* Advanced Excel
+* Power Query
+* Python
+* Google Looker Studio
+* Excel VBA
+* Office 365
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Projects
 
-- 🔗 LinkedIn : *https://www.linkedin.com/in/ashutosh-singh86/*
-- 📧 Email: *mithuvats6@gmail.com*
+### 🚗 Car Sales Dashboard | Power BI
+
+Interactive dashboard for sales performance, customer insights, transactions, and regional analysis.
+
+### 🏥 Hospital Emergency Room Dashboard | Excel
+
+Dashboard to analyze patient count, wait time, satisfaction score, and department referrals.
+
+### 🍽 Restaurant Sales Data Analysis | PostgreSQL
+
+Performed data cleaning, relationship building, and business analysis using SQL queries.
+
+### 🛠 Ashutosh Tools | Excel VBA
+
+Custom automation tools for text cleaning, validation, reporting, and email automation.
+
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshKumar727&show_icons=true&theme=tokyonight" alt="Ashutosh GitHub stats" />
-</p>
+## 💼 Experience
+
+**Process Associate**
+SunTec Web Services Pvt Ltd | Dec 2022 – Present
+
+* Data verification and matching
+* Product data analysis and quality assurance
+* Product listing and catalog management
+* ManualMatcher Tool – Product Reconciliation
+* Price, ratings, reviews, and product detail verification
+
+---
+
+## 🎓 Education & Certifications
+
+* Bachelor of Arts (General) – IGNOU
+* Advanced Diploma in Computer Applications (ADCA)
+* Certifications in Excel, Power BI, SQL, and Data Analysis
+
+---
+
+## 📫 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-singh86/
+📧 Email: [ashutosh9631837387@gmail.com](mailto:ashutosh9631837387@gmail.com)
+💻 GitHub: https://github.com/AshutoshKumar727
