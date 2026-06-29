@@ -80,5 +80,4 @@ SunTec Web Services Pvt Ltd | Dec 2022 – Present
 ## 📫 Let's Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-singh86/
-📧 Email: [ashutosh9631837387@gmail.com](mailto:ashutosh9631837387@gmail.com)
-💻 GitHub: https://github.com/AshutoshKumar727
+📧 Email: 📧 Email: *mithuvats6@gmail.com*
